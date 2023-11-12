@@ -1,1 +1,2 @@
 Lets start the DevOps
+Git is a version control system which provides all the details, tracking, changes regarding project from the beginning. 
